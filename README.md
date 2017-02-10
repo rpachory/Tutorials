@@ -1,2 +1,2 @@
 # Tutorials
-To learn an practise examples.
+To learn and practice JAVA examples.
